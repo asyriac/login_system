@@ -7,6 +7,7 @@ To get the Node server running locally:
 - Install MongoDB
 - Change the enviroment variables in config folder as required
 - npm run start the local server
+- Start the redis server
 
 # Application Structure
 
